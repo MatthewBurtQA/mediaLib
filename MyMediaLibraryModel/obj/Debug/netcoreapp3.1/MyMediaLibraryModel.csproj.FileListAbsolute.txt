@@ -1,0 +1,13 @@
+C:\Users\BEAST\source\repos\MyMediaLibraryModel\MyMediaLibraryModel\bin\Debug\netcoreapp3.1\MyMediaLibraryModel.exe
+C:\Users\BEAST\source\repos\MyMediaLibraryModel\MyMediaLibraryModel\bin\Debug\netcoreapp3.1\MyMediaLibraryModel.deps.json
+C:\Users\BEAST\source\repos\MyMediaLibraryModel\MyMediaLibraryModel\bin\Debug\netcoreapp3.1\MyMediaLibraryModel.runtimeconfig.json
+C:\Users\BEAST\source\repos\MyMediaLibraryModel\MyMediaLibraryModel\bin\Debug\netcoreapp3.1\MyMediaLibraryModel.runtimeconfig.dev.json
+C:\Users\BEAST\source\repos\MyMediaLibraryModel\MyMediaLibraryModel\bin\Debug\netcoreapp3.1\MyMediaLibraryModel.dll
+C:\Users\BEAST\source\repos\MyMediaLibraryModel\MyMediaLibraryModel\bin\Debug\netcoreapp3.1\MyMediaLibraryModel.pdb
+C:\Users\BEAST\source\repos\MyMediaLibraryModel\MyMediaLibraryModel\obj\Debug\netcoreapp3.1\MyMediaLibraryModel.csprojAssemblyReference.cache
+C:\Users\BEAST\source\repos\MyMediaLibraryModel\MyMediaLibraryModel\obj\Debug\netcoreapp3.1\MyMediaLibraryModel.AssemblyInfoInputs.cache
+C:\Users\BEAST\source\repos\MyMediaLibraryModel\MyMediaLibraryModel\obj\Debug\netcoreapp3.1\MyMediaLibraryModel.AssemblyInfo.cs
+C:\Users\BEAST\source\repos\MyMediaLibraryModel\MyMediaLibraryModel\obj\Debug\netcoreapp3.1\MyMediaLibraryModel.csproj.CoreCompileInputs.cache
+C:\Users\BEAST\source\repos\MyMediaLibraryModel\MyMediaLibraryModel\obj\Debug\netcoreapp3.1\MyMediaLibraryModel.dll
+C:\Users\BEAST\source\repos\MyMediaLibraryModel\MyMediaLibraryModel\obj\Debug\netcoreapp3.1\MyMediaLibraryModel.pdb
+C:\Users\BEAST\source\repos\MyMediaLibraryModel\MyMediaLibraryModel\obj\Debug\netcoreapp3.1\MyMediaLibraryModel.genruntimeconfig.cache
