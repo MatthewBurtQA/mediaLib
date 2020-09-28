@@ -13,7 +13,15 @@ namespace XUnitTests
 			meditem.setTitle("Tetris");
 			Assert.Equal("Tetris", meditem.getTitle());
 		
+		}
+		[Fact]
 
+		public void setAgeTest()
+		{
+			MediaItem meditem = new MediaItem();
+			meditem.setAgeRating(22);
+
+			Assert.Equal(22, meditem.getAgeRating());
 
 
 		}

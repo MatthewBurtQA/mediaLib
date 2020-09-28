@@ -21,6 +21,8 @@ namespace MyMediaLibraryModel
 			medias.Add(media); // append media to the end of the media list. 
 		}
 
+		
+
 		public void accessElementAt (int acArg)
 		{
 
